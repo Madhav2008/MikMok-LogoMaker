@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 100vh;
+    background: #000;
+}
+
+.fa-opera{
+    color: #fff;    
+    font-size: 20em;
+    text-shadow: 10px 0px #ff3353fc, 
+	       -10px 0px cyan;
+}
+
+.fa-maxcdn{
+    color: #fff;    
+    font-size: 20em;
+    text-shadow: 10px 0px #ff3353fc, 
+	       -10px 0px cyan;
+}
